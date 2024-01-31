@@ -33,6 +33,7 @@ body {
 
 .cabecalho .menu li a:hover {
 	border-bottom: 2px solid #fff;
+	background-color: #fff;
 }
 
 .home {
